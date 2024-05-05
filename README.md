@@ -1,2 +1,2 @@
 # qrisk3-project
-qrisk3 assessment website and algorithm
+python port of qrisk3
